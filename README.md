@@ -59,7 +59,7 @@ The circuit is divided into:
 Optimal hidden layer neurons were determined through model accuracies for different configurations. Three middle layer neurons were selected based on the balance between simplicity and accuracy. Data was normalized to a range of 0 to 5 to facilitate resistor values.
 
 ### Final Circuit Diagram
-- [Final Circuit Diagram Image](#CircuitDiagram.png)
+![Final Circuit Diagram](CircuitDiagram.png)
 
 ### List of Materials
 - 2 breadboards
